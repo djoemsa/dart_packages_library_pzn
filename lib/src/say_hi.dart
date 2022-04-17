@@ -1,3 +1,3 @@
 String sayHi(String name) {
-  return "Hi! $name";
+  return "Hi! $name, WASSUP!";
 }
